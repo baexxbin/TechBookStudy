@@ -1,6 +1,0 @@
-- 대량의 데이터를 저장할 때 NoSQL 데이터베이스가 항상 유리한가? 
-  - MongoDB와 MySQL의 성능 비교 MySQL의 데이터 탐색 방식 차이점
-- Master Slave 구조에서 데이터 동기화가 어떻게 진행되는지? 
-- Master 서버가 2개라면 어떻게 동기화가 진행되는지?
-- 원형 다중화? 
-- 로드밸런서에서 IP Hash 방식을 사용하면 Sticky Session이 필요 없는지? 
