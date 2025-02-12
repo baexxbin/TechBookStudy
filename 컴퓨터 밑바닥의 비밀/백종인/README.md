@@ -1,0 +1,1 @@
+- [1. 프로그래밍 언어부터 프로그램 실행까지, 이렇게 진행된다](https://rookedsysc.vercel.app/blog/book-review/secret-of-the-underlying-computer/sotuc-chapter-1)
